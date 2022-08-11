@@ -2,7 +2,7 @@
 <div style="text-align: left; display: grid; grid-template-columns: 1fr 1fr;">
   <div>
 
-![Owczarek_purple.png](Untitled%204ca81b7dc56b4f8fab77ce0492d2c94d/Owczarek_purple.png)
+<img src="Owczarek_purple.png" width="600">
 
 Find me on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrycja-owczarek/)
 

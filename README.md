@@ -2,9 +2,9 @@
 <div style="text-align: left; display: grid; grid-template-columns: 1fr 1fr;">
   <div>
 
-<img src="Owczarek_purple.png" width="600">
+<img src="Owczarek_purple.png" width="400">
 
-Find me on [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrycja-owczarek/)
+Find me on [<img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/patrycja-owczarek/)
 
   </div>
   <div>
